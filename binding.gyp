@@ -15,7 +15,7 @@
             'cflags_cc': [
                     '-Wall',
                     '-O3',
-                    '-std=c++0x',
+                    '-std=c++11',
                 ],
                 'cflags': [
                     '-Wall',
